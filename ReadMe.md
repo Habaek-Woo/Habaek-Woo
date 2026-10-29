@@ -2,21 +2,51 @@
 
 <table>
 <tr>
-<td align="center">
+<td width="300" align="center">
 
 <img src="avatar.png" width="280" alt="Habaek-Woo" />
 
-<br><br>
+<br>
 
 **John Renzo G. Dacer**
-
-<sub>IT Support / Full Stack Developer</sub><br>
+<br>
+<sub>IT Support / Full Stack Developer</sub>
+<br>
 <sub>Phil National Lines Inc.</sub>
 
 </td>
-<td align="center">
+<td width="500">
 
-<img src="neofetch.svg" width="520" alt="neofetch" />
+```
+renzo@pnl ~ $ neofetch
+─────────────────────────────────────
+OS:       Windows 10 & 11, Linux (Kali & Mint)
+Uptime:   23 years, 2 months, 23 days
+Host:     Phil National Lines Inc.
+Kernel:   IT Support / Software Engineer
+IDE:      VSCode, Android Studio
+
+Languages:
+  Code:   JS, TS, Python, PHP, Bash
+  Web:    HTML, CSS, JSON, YAML, MD
+  Real:   English, Filipino
+
+Frameworks:
+  React, Next, Angular, Vue, Nuxt, Laravel,
+  NestJS, Express, FastAPI, Flutter
+
+Tools:
+  Docker, K8s, Git, Figma, Nginx,
+  Postman, Supabase, Cloudflare
+
+Learning: Palo Alto, Cloud Native, Cisco
+Hobbies:  Video Games, CTF, Networking
+─────────────────────────────────────
+Contact:  dacerjohnrenzo5@gmail.com
+LinkedIn: john-renzo-dacer-398b01371
+GitHub:   Habaek-Woo
+Portfolio: renzodacercv.vercel.app
+```
 
 </td>
 </tr>
@@ -30,14 +60,4 @@
 <a href="https://renzodacercv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Habaek-Woo"><img src="https://img.shields.io/github/followers/Habaek-Woo?style=social" /></a>
 <img src="https://komarev.com/ghpvc/?username=Habaek-Woo&label=views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-─────────────────────────────────────
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Habaek-Woo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-<br><br>
-<img src="https://streak-stats.demolab.com/?user=Habaek-Woo&theme=github_dark&hide_border=false" />
 </p>
