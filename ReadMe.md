@@ -39,6 +39,10 @@ Tools:
   Docker, K8s, Git, Figma, Nginx,
   Postman, Supabase, Cloudflare
 
+Networking:
+  TCP/IP, DNS, DHCP, VLAN's, Subnetting,
+  ACL's, Network Administration
+
 Learning: Palo Alto, Cloud Native, Cisco
 Hobbies:  Video Games, CTF, Networking
 ─────────────────────────────────────
