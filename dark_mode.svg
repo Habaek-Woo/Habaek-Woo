@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460">
+  <rect width="900" height="460" fill="#0d1117" rx="8"/>
+
+  <!-- Window chrome -->
+  <circle cx="22" cy="16" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="16" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="16" r="6" fill="#28c840"/>
+  <text x="450" y="20" text-anchor="middle" font-family="'Cascadia Code','Fira Code','Consolas',monospace" font-size="11" fill="#484f58">renzo@pnl ~ </text>
+
+  <!-- Left: ASCII art -->
+  <g font-family="'Cascadia Code','Fira Code','Consolas',monospace" font-size="5" fill="#39d353" xml:space="preserve">
+    <text x="22" y="56">llllll!!!!!!!!!!!!iiii>>>>>>>>>>i!lIIIll;:::::::;;;I!iIllIIIIIIl!>><>~</text>
+    <text x="22" y="62">lllllll!!!!!!!!!!!!!!!iiii!!ilI;:::::::::::::::::;;;;;;;;;;IIIIIII~+&lt;~</text>
+    <text x="22" y="68">!!lll!!!!!!!!!i!!iiiii!lI::,,::::::::::::::::::::;;III;;;;;;IIIIIIl&lt;~_</text>
+    <text x="22" y="74">!!!!!!!!!!!!!!!iii!lI;::,:::::::::::::::::::::::::;;;;;;;IIII;I;;I;l&lt;></text>
+    <text x="22" y="80">lllll!!!!!!!!!!!I:,,,,::::;l!IIIIll!ii!llIII;:::::;;;;;;;IIIIIIII;;I!i</text>
+    <text x="22" y="86">lllllll!!!!!!!!:",:::;lliii&lt;~il>!!lIlllIIIIII;:;;:::::;;;;IlI;;IIII;il</text>
+    <text x="22" y="92">llll!l!!!!!!!l:,:;Ili>&lt;>iiiilIlI;:,:::,::::;:::::::::::::;I;;;;;;;;!i</text>
+    <text x="22" y="98">!!!!!!!!!!!!l:;Il!!ii!lll;;;;;:;;::,,,,:,,,,,:,,,:,,::::::;;;;;;;;;:>+</text>
+    <text x="22" y="104">!!!!!!!!!!!!lll!llllI:::::,:,:::;::,,:,,,,::,",,,,,::::::::::::::::;&lt;_</text>
+    <text x="22" y="110">llll!!!!!!!lII;;:::;;:",:::l+,,:;:,,:::,,,"]u\"",,,:::::;:::,::::,I~!+</text>
+    <text x="22" y="116">llll!!!lll!l;:,,,,:I;,_&lt;>_~1uliI;,II^:;,?[t?Y1++^,,,,,:::::,,,,,:,I>></text>
+    <text x="22" y="122">llllll!!!!l!l,,,,::!?&lt;YU{_(pUtmcx}~u|;,)qkmU})cr.,,,,,,,::,,,,,,:,li&lt;></text>
+    <text x="22" y="128">:I!!!!!!!!!!!I,,,;!?c}\1[x0dqdddqmZOdu>moducJO0-`,,,,,,,,,,,,,,,,:;>>></text>
+    <text x="22" y="134">,,!IIIIlllll!llI:;~tvZ0zpM*hhhkdddddqpQqbLnpbU_`,"""",,,,,,,,,,,,i!l>i</text>
+    <text x="22" y="140">,,,,,,,,,,,::::;:"zawkho*ahhhhkkkbddpqpqpkQmci'"""""""""",,,,,,,,i&lt;ii!</text>
+    <text x="22" y="146">,,,,,,,,,,,,,:""YMa*ooooaahhhhkkkbbdpqwpx-\['"""^""""""","",,,";i>iii</text>
+    <text x="22" y="152">,,,,,,,,,,,,,:`;LMaoaaaooahhhhhkkkbbdpqqO]+t}`"""",""",",,"",,,,Ii!i!!</text>
+    <text x="22" y="158">,,,,,,,,,,,,,"~d&amp;hkhaaaaoaahhhhhkkbddpqkv1&lt;\[`,,"",,",:,,,,,,,::I!!!!!</text>
+    <text x="22" y="164">:;";:";:,:,,:"~))(|L*oo*ooaahhhkkkbdddbJ/x!}[^,,"",,,,::,:::::I;l!!lll</text>
+    <text x="22" y="170">,;:,:,:,,I,,I,""':`(addqboaahhhhkbddbwc1xc&lt;&lt;?"::,",:,,::::::I;lIl!l;II</text>
+    <text x="22" y="176">~++&lt;~~>>>Ill!lI!l;;>?|nzqoahhhhhkkkpJr)tuY)I-:,:,,,::,:::,,::;IIII;III</text>
+    <text x="22" y="182">>>&lt;&lt;~+++!>&lt;_____--_~)n0oaaahhkhhdLvnjtu0kQ>i:":,""::,,:,:",,,::;;;;;;</text>
+    <text x="22" y="188">~~>>>>>>>Iiliiii!iii>![daaaahhhb0XcXzxcqWb}"lI",:"",,,,,,:,,",,;:;;;</text>
+    <text x="22" y="194">?---???]-l!&lt;?-----__!lip#ooookmCJCJYXUkMc; ^^^,,:""",,,,,,,"""^""::;::</text>
+    <text x="22" y="200">____----+l!~-----?-?!i;/wbdOUxt|{_>llwd]'";:""",,,^""""""","^"^^^^",;;</text>
+    <text x="22" y="206">-????--?_l!~---_---_lllIi+~>!::I!i,,:{I`;::,",""""^""^"^^^",^"^^^^",;;</text>
+    <text x="22" y="212">>~~~~+~+~I!>+~+++__+ll;::,",,:;III::,`,::,,,","^"^^^"^^^^^^""^"^^^^",;</text>
+    <text x="22" y="218">ii!!!!!!lIlIllllllllI;:,,,,",,,,",,::::,,:::,",^^^^^^^^^^`^^""^^^^^^^"</text>
+    <text x="22" y="224">+++~~&lt;>iIl&lt;~~>!I;:::::,,,:,,,::::::,:::,,,:,,",^`^`^^^````^^"^^^^^^""</text>
+    <text x="22" y="230">~~&lt;>~&lt;~>II!!I;;;;:;;:::;::::::::,,::,::::,::,"""````^^``````^"^^^^^^"</text>
+    <text x="22" y="236">+&lt;>&lt;&lt;iI:::;IIII;:;;;;;:::::::::::,,,,,::,,,,,,"^````^^``````^"^^^^^^</text>
+    <text x="22" y="242">iii~~i;,,::;IIIII;;;;;:::::::::::,,,,,"",,,,,,::,"^````^^``````^^`^^^^</text>
+    <text x="22" y="248">l!i&lt;l,"::::IIIII;;;;;:::::::::::,",,:,,,,,"""",::,"^````^^``````^^`^^^</text>
+  </g>
+
+  <!-- Right: Neofetch info (Andrew6rant format, green labels) -->
+  <g font-family="'Cascadia Code','Fira Code','Consolas',monospace" font-size="12">
+
+    <!-- Header -->
+    <text x="350" y="56" fill="#58a6ff" font-weight="bold">renzo@pnl</text>
+    <text x="436" y="56" fill="#c9d1d9">---------</text>
+
+    <!-- System Info -->
+    <text x="350" y="78"><tspan fill="#39d353">OS:</tspan><tspan fill="#c9d1d9"> Windows 10, Linux (Kali)</tspan></text>
+    <text x="350" y="96"><tspan fill="#39d353">Uptime:</tspan><tspan fill="#c9d1d9"> 23 years, 2 months, 23 days</tspan></text>
+    <text x="350" y="114"><tspan fill="#39d353">Host:</tspan><tspan fill="#c9d1d9"> Phil National Lines Inc.</tspan></text>
+    <text x="350" y="132"><tspan fill="#39d353">Kernel:</tspan><tspan fill="#c9d1d9"> IT Support / Full Stack Dev</tspan></text>
+    <text x="350" y="150"><tspan fill="#39d353">IDE:</tspan><tspan fill="#c9d1d9"> VSCode, Android Studio</tspan></text>
+
+    <!-- Separator -->
+    <line x1="350" y1="162" x2="880" y2="162" stroke="#21262d" stroke-width="1"/>
+
+    <!-- Languages -->
+    <text x="350" y="180"><tspan fill="#39d353">Languages.Programming:</tspan><tspan fill="#c9d1d9"> JavaScript, TypeScript,</tspan></text>
+    <text x="350" y="198"><tspan fill="#c9d1d9">  Python, PHP, Bash</tspan></text>
+    <text x="350" y="216"><tspan fill="#39d353">Languages.Computer:</tspan><tspan fill="#c9d1d9"> HTML, CSS, JSON, YAML, MD</tspan></text>
+    <text x="350" y="234"><tspan fill="#39d353">Languages.Real:</tspan><tspan fill="#c9d1d9"> English, Filipino</tspan></text>
+
+    <!-- Separator -->
+    <line x1="350" y1="246" x2="880" y2="246" stroke="#21262d" stroke-width="1"/>
+
+    <!-- Hobbies -->
+    <text x="350" y="264"><tspan fill="#39d353">Hobbies.Software:</tspan><tspan fill="#c9d1d9"> Video Games, CTF</tspan></text>
+    <text x="350" y="282"><tspan fill="#39d353">Hobbies.Hardware:</tspan><tspan fill="#c9d1d9"> Networking, Homelab</tspan></text>
+
+    <!-- Separator -->
+    <line x1="350" y1="294" x2="880" y2="294" stroke="#21262d" stroke-width="1"/>
+
+    <!-- Contact -->
+    <text x="350" y="312"><tspan fill="#39d353">Email.Personal:</tspan><tspan fill="#c9d1d9"> dacerjohnrenzo5@gmail.com</tspan></text>
+    <text x="350" y="330"><tspan fill="#39d353">LinkedIn:</tspan><tspan fill="#c9d1d9"> john-renzo-dacer-398b01371</tspan></text>
+    <text x="350" y="348"><tspan fill="#39d353">GitHub:</tspan><tspan fill="#c9d1d9"> Habaek-Woo</tspan></text>
+    <text x="350" y="366"><tspan fill="#39d353">Portfolio:</tspan><tspan fill="#c9d1d9"> renzodacercv.vercel.app</tspan></text>
+
+    <!-- Separator -->
+    <line x1="350" y1="378" x2="880" y2="378" stroke="#21262d" stroke-width="1"/>
+
+    <!-- GitHub Stats -->
+    <text x="350" y="396"><tspan fill="#39d353">Repos:</tspan><tspan fill="#c9d1d9"> 7 | </tspan><tspan fill="#39d353">Stars:</tspan><tspan fill="#c9d1d9"> 0 | </tspan><tspan fill="#39d353">Followers:</tspan><tspan fill="#c9d1d9"> 5</tspan></text>
+    <text x="350" y="414"><tspan fill="#39d353">Following:</tspan><tspan fill="#c9d1d9"> 3 | </tspan><tspan fill="#39d353">Member since:</tspan><tspan fill="#c9d1d9"> 2020-06-10</tspan></text>
+  </g>
+</svg>
