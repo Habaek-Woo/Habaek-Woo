@@ -24,11 +24,11 @@ OS:       Windows 10 & 11, Linux (Kali & Mint)
 Uptime:   23 years, 2 months, 23 days
 Host:     Phil National Lines Inc.
 Kernel:   IT Support / Software Engineer
-IDE:      VSCode, Android Studio
+IDE:      VSCode
 
 Languages:
-  Code:   JS, TS, Python, PHP, Bash
-  Web:    HTML, CSS, JSON, YAML, MD
+  Code:   JS, TS, Python, Bash, SQL, 
+  Web:    HTML5, CSS, JSON, YAML, MD
   Real:   English, Filipino
 
 Frameworks:
@@ -36,12 +36,16 @@ Frameworks:
   NestJS, Express, FastAPI, Flutter
 
 Tools:
-  Docker, K8s, Git, Figma, Nginx,
+  Docker, K8s, Git/Github, Figma, Nginx,
   Postman, Supabase, Cloudflare
 
 Networking:
   TCP/IP, DNS, DHCP, VLAN's, Subnetting,
   ACL's, Network Administration
+
+Hardware & IoT:
+  Raspberry Pi, Arduino, ESP32,
+  Hardware Troubleshooting
 
 Learning: Palo Alto, Cloud Native, Cisco
 Hobbies:  Video Games, CTF, Networking
