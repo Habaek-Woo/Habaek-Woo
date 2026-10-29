@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80">
-  <defs>
-    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#58a6ff"/>
-      <stop offset="100%" style="stop-color:#1f6feb"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,40 C100,10 200,60 300,35 C400,10 500,50 600,30 C700,10 750,45 800,35 L800,80 L0,80 Z" fill="url(#wave)" opacity="0.8"/>
-</svg>
