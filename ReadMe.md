@@ -26,14 +26,12 @@ Host:     Phil National Lines Inc.
 Kernel:   IT Support / Software Engineer
 IDE:      VSCode
 
-Languages:
-  Code:   JS, TS, Python, Bash, SQL, 
-  Web:    HTML5, CSS, JSON, YAML, MD
-  Real:   English, Filipino
+DEVELOPMENT:
+  Python, JavaScript, React.js, Angular.js
+  Vue.js, Flutter, PostgreSQL, SQL, Git/Github
 
-Frameworks:
-  React, Next, Angular, Vue, Nuxt, Laravel,
-  NestJS, Express, FastAPI, Flutter
+DESIGN:
+  UI/UX Design, Mobile Design, Figma
 
 Tools:
   Docker, K8s, Git/Github, Figma, Nginx,
@@ -41,7 +39,7 @@ Tools:
 
 Networking:
   TCP/IP, DNS, DHCP, VLAN's, Subnetting,
-  ACL's, Network Administration
+  ACL's, Network Administration, AWS
 
 Hardware & IoT:
   Raspberry Pi, Arduino, ESP32,
